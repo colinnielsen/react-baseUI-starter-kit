@@ -1,5 +1,6 @@
 ## instructions 🎉
 ### run the following commands:
-✅ yarn 
-✅ yarn start
-✅ party hard 🥳
+* yarn ✅
+* yarn start ✅
+
+party hard 🥳
